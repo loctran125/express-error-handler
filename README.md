@@ -1,2 +1,2 @@
 # express-error-handler
-example for epress handling error
+example for express handling error
